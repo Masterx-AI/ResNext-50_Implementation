@@ -1,5 +1,7 @@
 ## ResNext-50 Model Description:
 
+![](https://raw.githubusercontent.com/Masterx-AI/ResNext-50_Implementation/main/1_LOoc11tkDoqv0pC6OH7mwA.png)
+
 ResNeXt is a homogeneous neural network which reduces the number of hyperparameters required by conventional ResNet. This is achieved by their use of "cardinality", an additional dimension on top of the width and depth of ResNet. Cardinality defines the size of the set of transformations.
 
 The basic architecture of ResNeXt is defined by two rules. First, if the blocks produce same-dimensional spatial maps, they share the same set of hyperparameters, and if at all the spatial map is downsampled by a factor of 2, the width of the block is multiplied by a factor of 2.
