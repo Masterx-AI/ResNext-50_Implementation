@@ -1,4 +1,4 @@
-# ResNext-50 Implementation
+## ResNext-50 Model Description:
 
 ResNeXt is a homogeneous neural network which reduces the number of hyperparameters required by conventional ResNet. This is achieved by their use of "cardinality", an additional dimension on top of the width and depth of ResNet. Cardinality defines the size of the set of transformations.
 
